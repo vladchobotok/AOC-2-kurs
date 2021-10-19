@@ -1,0 +1,3 @@
+D:/KNU/2kurs/AOC/Lab1/Server/cmake-build-debug/CMakeFiles/Server.dir
+D:/KNU/2kurs/AOC/Lab1/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KNU/2kurs/AOC/Lab1/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

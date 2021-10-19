@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/KNU/2kurs/AOC/Lab1/Server/main.cpp
+iostream
+-
+winsock2.h
+-
+fstream
+-
+stdio.h
+-
+ctime
+-
+chrono
+-
+
