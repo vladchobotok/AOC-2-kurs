@@ -1,0 +1,10 @@
+Client sent msg to server: HelloHelloHelloHelloHello Time: Tue Oct 19 19:15:12 2021
+
+Client sent msg to server: Who Time: Tue Oct 19 19:19:38 2021
+
+Client received msg from server: Chobotok Vladyslav, . Time: Tue Oct 19 19:19:38 2021
+
+Client received msg from server: 4th variant. Time: Tue Oct 19 19:19:38 2021
+
+Client sent msg to server: exit Time: Tue Oct 19 19:19:42 2021
+
