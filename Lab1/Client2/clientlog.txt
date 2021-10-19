@@ -1,0 +1,6 @@
+Client received msg from server: HelloHelloHelloHello. Time: Tue Oct 19 19:15:12 2021
+
+Client received msg from server: Hello. Time: Tue Oct 19 19:15:12 2021
+
+Client sent msg to server: exit Time: Tue Oct 19 19:20:11 2021
+
